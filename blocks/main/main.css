@@ -1,6 +1,6 @@
 .main{
     background-color: #2A2C2F;
-    display:flex ;
+    display:flex;
     align-items: center;
     flex-direction: column;
 }
