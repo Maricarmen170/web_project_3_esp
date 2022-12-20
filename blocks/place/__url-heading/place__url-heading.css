@@ -1,0 +1,20 @@
+.place__url-heading{
+    font-family: 'Inter';
+    font-style: normal;
+    max-width: 3.625rem;
+    min-height: .9375rem;
+    font-weight: 400;
+    font-size: .75rem;
+    line-height: .9375rem;
+    letter-spacing: 0.12em;
+    text-transform: uppercase;
+    color: #AAAAAA;
+}
+
+@media screen and (min-width:320px) and (max-width:767px) {
+    .place__url-heading{
+        max-width: 18rem;
+        min-height: .9375rem;
+        margin: auto;
+    }
+}

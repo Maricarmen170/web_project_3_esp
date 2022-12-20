@@ -1,19 +1,32 @@
-# Project 3: De patria a patria
+## Bienvenido al repositorio de mi proyecto! 🤓
+
+# _Project 3: De patria a patria_
+
 ### Descripción general    
 * Introducción  
-* Figma  
-* Imágenes  
+* Tecnologías
+* Instalación
+* Enlace
+* Planes Futuros
   
-**Introducción**    
+**_Introducción_**    
   
-Este es un proyecto que muestra las ciudades natales de algunos de los empleados de Practicum. Lo hemos diseñado de tal modo que todos los elementos se muestren correctamente en los tamaños de pantalla más habituales. Recomendamos invertir más tiempo en completar este proyecto, ya que es más difícil que los anteriores.     
+Hola, mi nombre es maricarmen y desarrollé este proyecto que muestra las ciudades natales de algunos de los empleados/alumnos de Practicum.Su funcionalidad es de tipo informativo y la caracteristica principal es que es proyecto responsivo .   
+**_Tecnologías_**  
+[x]HTML
+[x]CSS
+[x]GIT
+
+**_Instalacion_**
+Para instalar el proyecto debes clonar el repositorio y luego abrir el archivo index.html en tu navegador:
+
+> git clone
+> cd web_project_1_es
+
+**_Enlace_**
+* [Enlace al proyecto en GitHub](https://github.com/Maricarmen170/web_project_3_esp.git)  
   
-**Figma**  
-  
-* [Enlace al proyecto en Figma](https://www.figma.com/file/ZW8wxTYTZH2czTTfDMVHWq/WEB%2C-Sprint-3-%3A-De-patria-a-patria-%7C-desktop-%2B-mobile?node-id=0%3A1)  
-  
-**Imágenes**  
-  
-A la hora de trabajar, debes optar por exportar las imágenes directamente desde Figma; te recomendamos hacerlo para practicar más. No olvides optimizarlas [aquí](https://tinypng.com/), para que tu proyecto cargue más rápido.   
-  
-¡Mucha suerte y que te lo pases bien! 
+**_Planes Futuros_**
+
+[x] Agergarle un backend
+[x] Agregarle un formulario de contacto

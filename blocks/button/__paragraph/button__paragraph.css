@@ -1,0 +1,30 @@
+.button__paragraph{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 1.125rem;
+    line-height: 1.375rem;
+    color: #FFFFFF;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    text-decoration: none;
+}
+
+@media screen and (min-width:768px) and (max-width:1279px) {
+    .button__paragraph{
+        margin: auto;
+        text-align: center;
+    }
+    
+}
+
+@media screen and (min-width:320px) and (max-width:767px) {
+    .button__paragraph{
+        max-width: 15.3125rem;
+        min-height: 1.0625rem;
+        font-size: .8125rem;
+        line-height: 1.0625rem;
+        margin:auto;
+    }
+}

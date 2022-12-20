@@ -1,0 +1,25 @@
+.button{
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    max-width: 22.1875rem;
+    min-height: 3rem;
+    padding: .8125rem 1.25rem;
+    gap: .625rem;
+    background: #0278FE;
+    border-radius: .25rem;
+    grid-area: button;
+}
+
+@media screen and (min-width:768px) and (max-width:1279px) {
+    .button{
+        justify-content: center;
+    }
+}
+
+@media screen and (min-width:320px) and (max-width:767px) {
+    .button{
+        max-width: 18rem;
+        margin: auto;
+    }
+}

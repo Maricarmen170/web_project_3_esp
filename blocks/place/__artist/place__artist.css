@@ -1,0 +1,25 @@
+.place__artist{
+    font-family: 'Inter';
+    font-style: normal;
+    max-width: 28.5rem;
+    min-height: 1.375rem;
+    font-weight: 400;
+    font-size: 1.125rem;
+    line-height: 1.375rem;
+    color: #FFFFFF;
+}
+
+@media screen and (min-width:768px)and (max-width:1279px) {
+    .place__artist{
+        max-width: 22rem;
+        min-height: 2.75rem;
+    }
+}
+
+@media screen and (min-width:320px)and (max-width:767px) {
+    .place__artist{
+        max-width: 18rem;
+        min-height: 2.75rem;
+        margin: auto;
+    }
+}

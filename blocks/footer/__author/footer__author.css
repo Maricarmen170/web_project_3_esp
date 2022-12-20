@@ -1,0 +1,14 @@
+.footer__author{
+    font-family:'Inter';
+    font-weight: 400;
+    font-size: .875rem;
+    line-height: 1rem;
+    color: #FFFFFF;
+}
+
+@media screen and (min-width:320px) and (max-width:767px) {
+    .footer__author{
+        min-height: .875rem;
+        line-height: .875rem;
+    }
+}

@@ -1,0 +1,28 @@
+.content-description__title {
+    max-width: 100%;
+    min-height: 7.25rem;
+    padding-bottom: 2.5rem;
+    font-style: normal;
+    font-weight: 900;
+    font-size: 3.375rem;
+    line-height: 3.625rem;
+    color: #FFFFFF;
+    text-align: center;
+}
+
+@media screen and (min-width:768px) and (max-width:1279px) {
+    .content-description__title{
+        min-height: 14.5rem;
+        text-align: start;
+        padding-bottom: .9375rem;
+    }
+}
+
+@media screen and (min-width:320px)and (max-width:767px) {
+    .content-description__title{
+        font-size: 2rem;
+        line-height: 2.1875rem;
+        padding-bottom: .5625rem;
+        text-align: start;
+    }
+}
