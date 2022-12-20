@@ -1,7 +1,7 @@
 .place__image{
     width: 100%;
     max-width: 28.75rem;
-    max-width: 28.75rem;
+    min-height: 28.75rem;
     grid-area: image;
 }
 
